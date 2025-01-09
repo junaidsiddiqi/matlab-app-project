@@ -37,6 +37,7 @@ MATLAB App Designer: For building the interactive app and creating a user-friend
 MATLAB Programming: For implementing simulations, analyzing data, and providing insights on water-related challenges.
 
 *App Screenshots and Visuals*
+
 ![image](https://github.com/user-attachments/assets/f85cb6f2-3e4b-4dd3-a823-f8d41d271b8e)
 
 ![image](https://github.com/user-attachments/assets/db25c4ab-4ab7-453d-aa2b-d85fba5ca1d1)
