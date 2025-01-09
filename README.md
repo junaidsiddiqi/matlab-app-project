@@ -8,7 +8,7 @@ This project involved collaborating with a group to develop an interactive MATLA
 
 -Collaborating effectively with a team to develop and design an interactive MATLAB application.
 
--Writing code to create interactive visualizations that allow users to explore various water-related scenarios.
+-Writing code to create interactive visualizations that allow users to explore various water-related topics.
 
 -Analyzing the environmental impact of freshwater use and exploring potential solutions like distillation and reclamation.
 
